@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicacion de listas de usuario usando Js vanilla
 
 ### Notas:
 Recordar reconstruir los modulos de Node
